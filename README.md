@@ -5,7 +5,7 @@
 </a>
 <h3 align="center">Jobfier</h3>
 <p align="center">
-  Pulsuz giriş imkanı ilə yeni iş imkanlarını kəşf edin və karyeranızda növbəti addımı atın.
+  Missiyamız işəgötürmə prosesini asanlaşdıracaq innovativ vahid mərkəzli platformanı yaradaraq insan resurları mütəxəssislərinə kömək etmək və həm də iş axtaran insanlara yeni fürsətlər təklif edərək töhfə verməkdir.
   <br />
   <a href="https://jobfier.com/"><strong>Saytla tanış olun »</strong></a>
   <br />
