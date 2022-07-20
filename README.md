@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 <a href="https://jobfier.com/">
-  <img src="https://github.com/em1lg/beta.jobfier.com/blob/main/%23src/img/logo-white.svg" alt="Logo" width="250" height="150">
+  <img src="https://github.com/BIRainy-Developers/Jobfier.com/blob/main/logo-white.svg" alt="Logo" width="250" height="150">
 </a>
 <h3 align="center">Jobfier</h3>
 <p align="center">
