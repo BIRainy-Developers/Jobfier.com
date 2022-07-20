@@ -10,8 +10,8 @@
   <a href="https://jobfier.com/"><strong>Saytla tanış olun »</strong></a>
   <br />
   <br />
-  <a href="https://jobfier.com/">Sayt&nbsp;&nbsp;</a>
-  <a href="mailto:salam@jobfier.com">Səhvləri bildirin&nbsp;&nbsp;</a>
-  <a href="mailto:salam@jobfier.com">Görmək istədiyiniz yeniliklər&nbsp;&nbsp;</a>
+  <a href="https://jobfier.com/">Sayt</a>&nbsp;&nbsp;
+  <a href="mailto:salam@jobfier.com">Səhvləri bildirin</a>&nbsp;&nbsp;
+  <a href="mailto:salam@jobfier.com">Görmək istədiyiniz yeniliklər</a>&nbsp;&nbsp;
 </p>
 </div>
